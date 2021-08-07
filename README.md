@@ -17,31 +17,33 @@ I have provided several examples below for showing the beauty of this project. S
 
 #### Content images
 
-![Content 1](Outputs\content_1.png) ![Content 1](Outputs\content_2.png)
+![Content 1](/Outputs/content_1.png) 
+
+![Content 1](/Outputs/content_2.png)
 
 #### Stylised final images
 
-![Target 1](Outputs\starry_night_output.png) 
+![Target 1](/Outputs/starry_night_output.png) 
 
-![Target 4](Outputs\starry_night_output2.png) 
+![Target 4](/Outputs/starry_night_output2.png) 
 
-![Target 2](Outputs\Scream.png)  
+![Target 2](/Outputs/Scream.png)  
 
-![Target 5](Outputs\scream2.png) 
+![Target 5](/Outputs/scream2.png) 
 
-![Target 3](Outputs\picasso_output.png) 
+![Target 3](/Outputs/picasso_output.png) 
 
-![Target 6](Outputs\shipwreck_output.png)
+![Target 6](/Outputs/shipwreck_output.png)
 
 
 #### Art images used:
-![Art1](Outputs\sn.png)
+![Art1](Outputs/sn.png)
 
-![Art2](Outputs\sn.png)
+![Art2](Outputs/sn.png)
 
-![Art3](Outputs\scream(2).png)
+![Art3](Outputs/scream(2).png)
 
-![Art2](Outputs\picassostyle.png) 
+![Art2](Outputs/picassostyle.png) 
 
 ## Curious Points
 * The best use of this project I see is to create art! Other than that, speculating on more technical uses, I personally gained a lot of insights on how
@@ -58,10 +60,13 @@ Hence, we need to tweak the following paramters based on what kind of image we a
 
 
 Here is an example to show what I mean by this-
-![Attempt1](Outputs\attempt1.png) 
+* Before Tweaking
 
+![Attempt1](/Outputs/attempt1.png) 
 
-![Attempt2](Outputs\attempt2.png) 
+* After Tweaking
+
+![Attempt2](/Outputs/attempt2.png) 
 
 Please refer the notebook and annotated paper to understand better.
 
