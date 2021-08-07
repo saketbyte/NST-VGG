@@ -17,9 +17,7 @@ I have provided several examples below for showing the beauty of this project. S
 
 #### Content images
 
-![Content 1](/Outputs/content_1.png) 
-
-![Content 1](/Outputs/content_2.png)
+![Content 1](/Outputs/content_1.png)  ![Content 1](/Outputs/content_2.png)
 
 #### Stylised final images
 
@@ -38,8 +36,6 @@ I have provided several examples below for showing the beauty of this project. S
 
 #### Art images used:
 ![Art1](Outputs/sn.png)
-
-![Art2](Outputs/sn.png)
 
 ![Art3](Outputs/scream(2).png)
 
