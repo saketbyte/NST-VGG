@@ -35,11 +35,11 @@ I have provided several examples below for showing the beauty of this project. S
 
 
 #### Art images used:
-![Art1](Outputs/sn.png)
+![Art1](/Outputs/sn.png)
 
-![Art3](Outputs/scream(2).png)
+![Art2](/Outputs/scream_style.png)
 
-![Art2](Outputs/picassostyle.png) 
+![Art3](/Outputs/picassostyle.png) 
 
 ## Curious Points
 * The best use of this project I see is to create art! Other than that, speculating on more technical uses, I personally gained a lot of insights on how
