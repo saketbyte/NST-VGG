@@ -7,7 +7,10 @@
 ### About
 ***
 The project is based on the paper - [Image Style Transfer Using Convolutional Neural Networks.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
-
+For your convenience and for my own interests, I have thoroughly read and annotated both the papers - VGG Architecture as well as the above mentioned paper.
+You can check the [annotated versions here.](https://github.com/saketbyte/AnnotatedPapers)
+![paper1](/ppr.jpg)
+![paper2](/pp.jpg)
 A Neural Algorithm of Artistic Style that can separate and recombine the image content and style of natural
 images. The algorithm allows us to produce new images of high perceptual quality that combine the content of an arbitrary photograph with the appearance of numerous well-
 known artworks.
