@@ -22,7 +22,9 @@ I have provided several examples below for showing the beauty of this project. S
 
 #### Content images
 
-![Content 1](/Outputs/content_1.png)  ![Content 1](/Outputs/content_2.png)
+![Content 1](/Outputs/content_1.png)  
+
+![Content 1](/Outputs/content_2.png)
 
 #### Stylised final images
 
